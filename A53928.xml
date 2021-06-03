@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The substance of a sermon preached at the funeral of Mrs. Elizabeth Bell (age sixteen years, odd months) at St. M. Overies, in Southwalk, upon those words (chosen by her) of Solomons. ... / by Samuel Peck. ...</title>
+            <author>Peck, Samuel.</author>
+         </titleStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53928</idno><idno type="EEBO-CITATION">14508804</idno>
+  <idno type="VID">102448</idno>
+  <idno type="EEBO-PROQUEST">2264223040</idno>
+  
+            <idno type="STC">Wing P1038</idno>
+            <idno type="STC">ESTC R34549</idno>
+            <idno type="OCLC">14508804</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1065:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The substance of a sermon preached at the funeral of Mrs. Elizabeth Bell (age sixteen years, odd months) at St. M. Overies, in Southwalk, upon those words (chosen by her) of Solomons. ... / by Samuel Peck. ...</title>
+                  <author>Peck, Samuel.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Alex. Milbourn for J. Blare ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Ecclesiastes XII, 1 --  Sermons.</term>
+               <term type="topical_term">Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102448:1"/>
+            <pb facs="tcp:102448:1"/>
+            <p>The Substance of a SERMON, Preached at the Funeral of M<seg rend="sup">RS</seg>. <hi>Elizabeth Bell,</hi> (Aged Sixteen Years, odd Months) AT St. <hi>M. Overies,</hi> in <hi>Southwark,</hi> Upon those Words (chosen by her) of <hi>Solomons.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Eccles. 12.1.</hi>
+               </bibl>
+               <p>Remember thy Creator in the days of thy Youth, while the Evil days come not.</p>
+            </q>
+            <p>By <hi>Samuel Peck</hi> Minister of <hi>Popler.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <p>
+                           <hi>Imprimatur.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>Jan. 4. 1686.</date>
+                           </dateline>
+                           <signed>Guil. Needham, <hi>R. R. in Christo P. ac D. D. Willielmo Archiep.</hi> Cant. <hi>a Sacr. Dom.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <figure>
+               <figDesc>skeleton in casket</figDesc>
+            </figure>
+            <p>Printed by <hi>Alex. Milbourn,</hi> for <hi>J. Blare</hi> at the Sign of the <hi>Looking-glass</hi> on <hi>London-Bridge.</hi> 1687.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:102448:2"/>
+            <head>Advertisement.</head>
+            <p>THere is Published, <hi>The Accomplished Ladies rich Closet of Rarities;</hi> or <hi>The Ingenious Gentlewoman, and Servant-Maids delightful companion:</hi> Containing many excellent Things for the true accomplishment of the <hi>Female Sex,</hi> after the exactest manner and method, <hi>Viz.</hi>
+            </p>
+            <p>1. The Art of Distilling and Alembecking Physical and Cordial Waters; making Wa<g ref="char:EOLhyphen"/>ters by Infusion, <hi>&amp;c.</hi> 2. The Art of making Wines, and Artificial Liquors of divers Fruits, Spices, Plants, <hi>&amp;c.</hi> 3. How to make Cordial and Physical Syrups, exceeding useful and profitable. 4. Instructions for preserving, Conserving Fruits, Flowers, Roots, <hi>&amp;c.</hi> 5. The Art of Candying and Drying Fruits. 6. How to make Marmalades of all sorts, Fruit, Paste, Artificial Fruit, Quiddanies, Cakes, Mackroons, Comfits, and all manner of Confections, 7. The Art of Carving, and prefenting at the Table the piece most acceptable. 8. Directi<g ref="char:EOLhyphen"/>ons to make Beautifying-Waters, Oyls, Pomatums, Reparations. Musk-Balls, with the Art of Perfuming, and the like. 9. Physical and Chyrurgical Receipts, for Restoring of Health, and Easing of Grievances, 10. The Duty and Office of a wet Nurse, in the Man<g ref="char:EOLhyphen"/>ner, Management, and Discharge of her Trust. 11. Diseases in Infants, how to know and cure. 12. The Compleat Chamber-Maids instructions in making choice Spoon-meats, Caudles, Sawces, <hi>&amp;c.</hi> with all manner of Pickles; Washing and Starching Tiffanies, Lawns, Lutestrings, Point-lace, <hi>&amp;c.</hi> Scowring Gold-lace, Plate. <hi>&amp;c.</hi> Taking Spots or Stains out of Woollen, Stuffs, Silks, Linnen, <hi>&amp;c.</hi> 13. The Experienced Cook-Maids instructions, in dressing all manner of Flesh, Fish, and Fowl; Raising Pastery, and making Pyes, Tarts, Custards, and other things of the like nature: As also Sawces, Garnishes, and the best way of Serving up, with Bills of Fare, and what is in season throughout the year. 14. The Accomplished Dairy-Maid, her Office and Business, in making Junkets, <hi>&amp;c.</hi> 15. The Judicious Midwives Advice, or Modest Directions how Wo<g ref="char:EOLhyphen"/>men in Travail ought to be used before and after Deliverey; as also the Child, in order to the preservation of them both. <hi>To which is added as a Second Part,</hi> a Book of choice Di<g ref="char:EOLhyphen"/>rections for the Behaviour and Accomplishment of a Young Gentlewoman, in all her Capacities, from the Age of Six, to her Marriage Estate, and in her Family Affairs, <hi>&amp;c.</hi> Illustrated with Pictures. <hi>Price Bound One Shilling.</hi>
+            </p>
+            <p>LONDON, Printed for and Sold by <hi>Josiah Blare</hi> at the <hi>Looking-Glass</hi> on <hi>London-Bridge.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:102448:2"/>
+            <head>
+               <hi>The Substance of a Sermon,</hi> Preached at the Interment of M<seg rend="sup">Rs</seg>. Elizabeth Bell, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Eccles. 12.1.</hi>
+                  </bibl> Remember thy Creator in the Days of thy Youth, while the Evil Days come not.</q>
+            </epigraph>
+            <p>SAint <hi>Paul,</hi> who knew by experience the great disadvan<g ref="char:EOLhyphen"/>tage of losing the <hi>Prime</hi> of <hi>our Age</hi> in the ways of <hi>Sin,</hi> commands <hi>Titus</hi> to use his <hi>utmost endeavours,</hi> to per<g ref="char:EOLhyphen"/>swade Men to an <hi>early Piety,</hi> betimes to mind the best things, and lead a Life becoming the Gospel of Christ, saying: <hi>Young men exhort to be sober minded;</hi> (<hi>Tit.</hi> 2.6.) using such a word, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] as implys a continual Consultation with a Man's self, for the due government or well-ordering of his whole Course, that Wisdom, Vertue, Religion, and Piety, may shine forth in all his words, ways, and actions; or prevail upon him, (as the Apostle expresseth it) <hi>To deny all Ʋngodliness and Worldly Lust, and to live soberly, righteously, and godlily in this World.</hi> (Ver. 12.) An Exhortation, or Caution, not unlike this of the Wise Man's: <hi>Remember now thy Creator in the days of thy Youth, while the Evil days come not.</hi> And indeed <hi>Youth</hi> have need, great need to be often thus admonished; for the sooner <hi>Satan</hi> takes possession of any <hi>Soul,</hi> and the longer he keeps it, the harder 'tis to dispossess and cast him out; which makes him so diligent and desirous to <hi>corrupt Youth,</hi> and to steal away the
+<pb n="2" facs="tcp:102448:3"/>
+               <hi>hearts</hi> of <hi>young Persons,</hi> from their <hi>Maker;</hi> hoping, that if he be <hi>first</hi> served by them, he shall at <hi>last</hi> serve himself upon them: Therefore, if any Motive, if any Wile, Stratagem, or Argument will prevail, he will see that shall not be wanting. He will watch, and wait all opportunities and occasions, make large and fair promises of Profit, Honour, and Plea<g ref="char:EOLhyphen"/>sure: and allures them to <hi>smaller</hi> Sins first, thereby making way for Temptations to <hi>greater;</hi> sticks not to alledge and pervert the very <hi>Word of God,</hi> to draw them to, and encou<g ref="char:EOLhyphen"/>rage them in a licentious Course, or sinful Liberty, saying: GOD himself makes an allowance for your Years. <hi>Rejoice, O Young-man, in thy Youth, and let thine Heart cheer thee in the dayes of thy Youth: walk in the sight of thine Eyes, and in the ways of thine own Heart.</hi> As if God gave young Persons a Liberty to Sin: But in the mean time conceals from them the following <hi>Memento</hi> of the Wise-man; <hi>But know, that for all these things</hi> God <hi>will bring thee to Judgment; Eccles.</hi> 11.9. And therefore <hi>Remember now thy Creator in the dayes of thy Youth.</hi>
+            </p>
+            <p>From which words, two things offer themselves to our consideration; <hi>(Viz.)</hi>
+               <list>
+                  <item>1. There is in <hi>Young Persons</hi> a proness to <hi>forget</hi> their <hi>Creator,</hi> and their <hi>Duty</hi> towards Him.</item>
+                  <item>2. That GOD requires and looks for <hi>Service</hi> from <hi>young Persons.</hi> Of each of these, I shall speak somewhat briefly.</item>
+               </list>
+            </p>
+            <div n="1" type="proposition">
+               <head>
+                  <hi>Prop.</hi> 1.</head>
+               <p>THere is in <hi>Young Persons</hi> a natural proness to <hi>forget</hi> their <hi>Creator,</hi> and their <hi>Duty</hi> towards Him.</p>
+               <p>This appears by the Advice frequently given in <hi>Scripture,</hi> to, and concerning <hi>Youth;</hi> sometimes by <hi>Solomon,</hi> who speaking to <hi>Parents</hi> and <hi>Governours,</hi> adviseth, that they <hi>Train up Children in the way they should go,</hi> (the way of Piety and Religion,) <hi>and
+<pb n="3" facs="tcp:102448:3"/>when they are Old, they will not depart from it.</hi> For <hi>Young Ones</hi> like new Vessels,
+<note place="margin">Quo semel est imbuta recens se<g ref="char:EOLhyphen"/>vabit Odorem, testa din.—</note> long retain the relish of those Principles or Instructions, that are first poured into them. Sometimes again the Wise-man di<g ref="char:EOLhyphen"/>recting his Discourse to young Ones themselves, saith, <hi>My Son, be wise, hear Instruction, and incline thine ear to Ʋnderstanding: my Son, if Sinners entice thee, consent thou not;</hi> Prov. 1.10. <hi>Seek Wisdom, and lift up thy voice for Ʋn<g ref="char:EOLhyphen"/>derstanding;</hi> Chap. 2. and 3. Seek her as Silver: dig for her as for hid Treasure: she is more precious than Rubies; all things thou canst desire, are not to be compared to her; length of days are in her Right Hand, and in her Left Hand Riches and Honour. And in the Text he counsels thee to <hi>Remember thy Creator in the days of thy Youth;</hi> That is, Be mindful of thy Duty towards him; Shun and avoid with all thy care, the Sins, the Vices, and Vani<g ref="char:EOLhyphen"/>ties of this Age, and devote thy self to God by an <hi>Early Repentance,</hi> and an <hi>Holy Life.</hi> In like manner <hi>David</hi> calls upon Young-men and Maidens to praise the Lord, or to live his praises, <hi>Psal.</hi> 148.12. And St. <hi>Paul</hi> exhorts young persons to be sober-minded, <hi>Tit.</hi> 2.6. Which implys Evangelical affections, or an holy frame and temper of mind.</p>
+               <p>Now, I say, such frequent Exercitations and Calls, as these, to young persons in the <hi>Word of God,</hi> does imply a proness in them to <hi>forget</hi> God, and <hi>their Duty</hi> to Him, in their <hi>Youth,</hi> to be <hi>re<g ref="char:EOLhyphen"/>gardless</hi> and <hi>unmindful</hi> of <hi>Religion,</hi> and the <hi>serious practice</hi> of it. Yea; and daily experience gives us but too sad a proof of the <hi>Truth</hi> of this. Look abroad into the <hi>World:</hi> consider the <hi>gene<g ref="char:EOLhyphen"/>rality</hi> of our <hi>Youth</hi> in this Age, what they are, what manner of Lives they lead, how vain, lewd, and debauched the most are in their <hi>Conversation;</hi> how <hi>rare</hi> it is to find <hi>one</hi> amongst <hi>many</hi> that is <hi>solid, sober,</hi> and <hi>religious,</hi> that makes <hi>real Conscience</hi> of avoiding all known Sin, and of <hi>performing Holy Duties,</hi> or of exercising him<g ref="char:EOLhyphen"/>self
+<pb n="4" facs="tcp:102448:4"/>to <hi>Godliness,</hi> as becomes his <hi>Christian Profession.</hi> Nay, do not many of them <hi>walk,</hi> and <hi>act,</hi> and <hi>talk</hi> more like <hi>Atheists,</hi> or <hi>Infi<g ref="char:EOLhyphen"/>dels,</hi> than <hi>Christians,</hi> as if they believed no future <hi>State,</hi> no Judg<g ref="char:EOLhyphen"/>ment, no Punishment, or Reward to come? And what is the ground of all this <hi>irreligion</hi> and <hi>prophaness,</hi> but an utter forgetful<g ref="char:EOLhyphen"/>ness of the God that <hi>made</hi> them, and will <hi>shortly judge</hi> them? A forgetfulness of their own <hi>Mortality,</hi> and approaching Dissolu<g ref="char:EOLhyphen"/>tion, which (when ever it comes) will make them as happy as Angels, or as miserable as Devils, for <hi>ever?</hi> I know <hi>(Young men)</hi> you have sometimes some <hi>Convictions</hi> wrought in you by the <hi>Word of God,</hi> and thereupon promise fair, talk of returning to God, and of forsaking your youthful Lusts and Vanities, yet set not about this <hi>great</hi> and <hi>needful Work</hi> in good earnest; but this your good<g ref="char:EOLhyphen"/>ness is as the Morning-Cloud, and early Dew, which quickly passeth away. Sirs, as in the <hi>Presence of God,</hi> ask your Con<g ref="char:EOLhyphen"/>sciences if this be not <hi>Truth.</hi> Do you not alwaies find something in your <hi>hearts</hi> ready to stifle all your purposes and promises of Re<g ref="char:EOLhyphen"/>pentance and Amendment of Life, so that you are delaying from this day to another, and still delaying, hoping for a time at last: till God take you away with his stroak: till you drop into your Graves, and all your thoughts perish? And what is the reason of this <hi>procrastination,</hi> but an Oblivion of your Creator? The sooner you <hi>repent</hi> and are <hi>pardoned,</hi> Is it not the better? The sooner you are <hi>reconciled</hi> to God, are in the way to Heaven, and obtain a well-grounded Hope of Gods saving-love in Christ to your Souls, Is it not the better? What is the ground then of your delay to be <hi>reli<g ref="char:EOLhyphen"/>gious,</hi> of your <hi>forgetfulness</hi> of God, and of your Duty to him and your own Souls? Why,</p>
+               <p n="1">1. <hi>Solomon</hi> tells you, one Reason is <hi>Sloth</hi> and <hi>Idleness:</hi> (<hi>Prov.</hi> 6.10.) You are loath to buckle to the Yoke of Gods Command<g ref="char:EOLhyphen"/>ments; you look upon him as an <hi>hard Master;</hi> account his ways too strict and holy; his Injunctions and Institutions unreasonable
+<pb n="5" facs="tcp:102448:4"/>and grievous, and so are unwilling to <hi>submit</hi> and <hi>conform</hi> to them.</p>
+               <p n="2">2. Another may be excessive Love to <hi>youthful Lusts</hi> and <hi>Plea<g ref="char:EOLhyphen"/>sures;</hi> These stoln Waters are sweet to your Souls; so that tho' you hear <hi>your Sins</hi> Reproved, and think of forsaking them, yet (God knows) that's all, you do but think of it: for <hi>your immoderate love</hi> to, and <hi>delight</hi> in them, obstructs your doing it.</p>
+               <p n="3">3. Confidence of long Life, and that you have time enough before you, and Repentance <hi>hereafter</hi> will do as well as <hi>now.</hi> God, upon true Repentance, forgives all; <hi>Let the Wicked forsake his way, and the Ʋnrighteous man his thoughts, and turn unto the Lord, he will have Mercy upon him: and to our God, He will abundantly pardon; Isa.</hi> 55.7. This is Gods promise, and it holds good to the <hi>Old</hi> as well as <hi>Young</hi> Penitent or Convert. Since therefore my Sins may be pardoned, and my Eternal State secured by <hi>repenting</hi> any time before I dye, as well as now, why should I imbitter my youthful days with the unpleasant <hi>severities</hi> of <hi>Religion,</hi> and sowr <hi>acts</hi> of <hi>Repentance</hi> and <hi>Mortification?</hi> Not I; <hi>Old Age</hi> suits <hi>melancholly</hi> and <hi>sorrow</hi> much better than <hi>Youth;</hi> then I may hear<g ref="char:EOLhyphen"/>ken to <hi>your Advice,</hi> but not before.</p>
+               <p n="4">4. The many Escapes that <hi>young persons</hi> have from <hi>Dangers</hi> and <hi>dangerous Sicknesses.</hi> Nature is <hi>strong</hi> and <hi>vigorous</hi> in them, and they wade through all: and when the <hi>Danger</hi> is over, they forget the <hi>vows</hi> and <hi>promises</hi> their Lips have made in the day of their di<g ref="char:EOLhyphen"/>stress: and that Reformation and Holiness which they were so <hi>forward</hi> to put on and engage in, in their <hi>Adversity,</hi> they are as <hi>ready</hi> to <hi>forget</hi> and put off again in the day of their <hi>prosperity.</hi> Well, but remember what <hi>Solomon</hi> saith here: <hi>The Evil days will come;</hi> Sickness and Death will come, and how soon you know not. You have here an Example before your Eyes, that <hi>Death</hi> lays his <hi>cold hand</hi> upon Youth; And daily experience tells you, that For <hi>One</hi> that dyes in his <hi>Old Age,</hi> there are <hi>Hundreds</hi> dye in their <hi>Youth;</hi> therefore, saith he, <hi>Now in thy</hi> Youth, <hi>remember thy Creator, while the Evil days come not.</hi> And this brings me to the second Obser<g ref="char:EOLhyphen"/>vable in these words. Namely;</p>
+            </div>
+            <div n="2" type="proposition">
+               <pb n="6" facs="tcp:102448:5"/>
+               <head>
+                  <hi>Prop.</hi> II.</head>
+               <p>THat God expects and looks for <hi>Service</hi> from <hi>young persons:</hi> That these should set their Hearts and Affections upon Him, honour, glorifie, and serve Him, by doing his <hi>Will,</hi> and keeping his <hi>Commandments;</hi> for so this Phrase <hi>(Re<g ref="char:EOLhyphen"/>member thy Creator)</hi> imports Affection, Practice, Love, and Obe<g ref="char:EOLhyphen"/>dience. That of <hi>Moses</hi> may serve for a Comment upon this Text of <hi>Solomon; Beware that thou forget not the Lord thy God, in not keeping his Commandments, his Judgments, and his Statutes, which I command thee this day.</hi> (<hi>Deut.</hi> 8.11.) Mark Sirs, to <hi>Remember thy Creator</hi> then, is to keep his Statutes, and to obey his Command<g ref="char:EOLhyphen"/>ments, and that in your Youth, whilst all the Powers and Facul<g ref="char:EOLhyphen"/>ties of thy Body and Soul are <hi>strong, active,</hi> and <hi>vigorous,</hi> and most fit for his <hi>Service.</hi> Under the Law, God called for the <hi>first Fruits,</hi> and for the <hi>Firstling</hi> of the <hi>Flock;</hi> the Gospel of it is this: That so soon as we come to years of <hi>understanding,</hi> to dispose of our <hi>hearts</hi> and <hi>affections,</hi> we should offer them <hi>first</hi> to God. And you have <hi>many</hi> Examples of this in Scripture; <hi>Josiah,</hi> at Eight years old, did that which was right in the sight of God; <hi>Samuel</hi> heard and obeyed Gods Voice when a Child; <hi>Timothy,</hi> of a Child, knew the <hi>Scrip<g ref="char:EOLhyphen"/>tures;</hi> And the Children of the <hi>Elect Lady</hi> were found walking in the <hi>Truth</hi> (2 Epistle of St. <hi>John.</hi>) And why may I not propound to your imitation, this <hi>young Gentlewoman,</hi> (not full 17. years of Age) whose <hi>Remains</hi> lye yet before you, who (doubtless) <hi>Remem<g ref="char:EOLhyphen"/>bred her Creator,</hi> and had a <hi>Sense</hi> of God, and of Religion, upon her mind in her Youth? I confess, I knew her not in her life; but being twice with her in <hi>her last Sickness,</hi> I perceived that in her (that <hi>strong love</hi> to God, those vehement desires after Him, and unusual consolations from Him, to her Soul, before Death) as wrought in me a <hi>perswasion,</hi> that she walked with God in her <hi>life;</hi> Her <hi>sweet</hi> and <hi>inward peace</hi> of <hi>Conscience,</hi> her <hi>hearty</hi> and <hi>holy Ejacu<g ref="char:EOLhyphen"/>lations,</hi> her <hi>pious</hi> and <hi>Heavenly Discourse,</hi> her <hi>freedom</hi> from the <hi>fears of Death,</hi> her <hi>contempt</hi> of this <hi>Life</hi> and <hi>World,</hi> and all the <hi>Va<g ref="char:EOLhyphen"/>nities</hi> of it, her <hi>impatient longings</hi> to depart, and to be with Christ
+<pb n="7" facs="tcp:102448:5"/>(insomuch, that she begged of me not to <hi>pray</hi> for <hi>her life</hi> or <hi>recove<g ref="char:EOLhyphen"/>ry</hi>) that she might <hi>enjoy</hi> him <hi>more fully</hi> in Glory: I say, these are <hi>rare</hi> to be found in a <hi>person</hi> so <hi>young;</hi> or in any indeed, but those who have kept up a close Communion with God, and have walked in Christ, as they have received him. And if that Saying be true, <hi>Qualis vita, finis it a: As is the life, so is the death;</hi> we may believe her Life was <hi>Holy,</hi> whose End was so <hi>Heavenly, joyous,</hi> &amp; full of <hi>comfort;</hi> and consequently, that she is <hi>arrived</hi> at the Haven of all Joy and Felicity, in the <hi>Morning</hi> of <hi>her Age.</hi> O what a support must this needs be to you, who bewail <hi>her loss,</hi> or rather <hi>the loss of her!</hi> for <hi>your loss</hi> is <hi>her gain!</hi> And, O that all you <hi>young Ones,</hi> who knew her, would follow her in this, to <hi>Remember your Creator in the days of your Youth!</hi> Considering, That,</p>
+               <p n="1">1. 'Tis most reasonable, That <hi>He</hi> who <hi>made</hi> you, should be <hi>first</hi> served by you; that all the affections and motions of your <hi>hearts</hi> and <hi>minds,</hi> all the works and actions of your lives should be <hi>pri<g ref="char:EOLhyphen"/>marily</hi> towards Him, in whom you live, move, and have your Beings, the Father and Fountain of all your <hi>Mercies</hi> in this Life, and whose <hi>love</hi> in Christ Jesus is the <hi>only Foundation</hi> of <hi>Hope</hi> for Mercy and Glory in the Life to come.</p>
+               <p n="2">2. The time of Youth is the most seasonable time for <hi>Gods Service;</hi> you lose the <hi>best part</hi> of <hi>your life,</hi> if you lose <hi>your Youth;
+<note place="margin">Optima que{que} dies miseris mor<g ref="char:EOLhyphen"/>talibus aevi pri<g ref="char:EOLhyphen"/>ma Fugit.—</note> now</hi> you are <hi>most capable</hi> of <hi>any thing</hi> that is <hi>good:</hi> most <hi>capable</hi> of <hi>divine Instructions,</hi> of <hi>performing holy duties,</hi> of keeping <hi>Gods Commandments,</hi> &amp; of discharging what<g ref="char:EOLhyphen"/>ever is incumbent upon you in your Christian Calling. Remember this, young men, if you forget God, and neglect your <hi>Duty</hi> towards God <hi>now,</hi> you can't imagine what an <hi>hard matter</hi> you will find it to buckle to the Yoke, and sustain the <hi>burthen</hi> of a <hi>Gospel-Obedience,</hi> &amp; to frame your lives to godliness <hi>hereafter.</hi> If Christs Yoke be easie, and his burthen light, it is so to them who bear it in their Youth. If you are Satan's <hi>Scholars</hi> young, you will be his <hi>Souldiers</hi> when you are old; if you <hi>follow</hi> him <hi>now,</hi> you will <hi>fight</hi> for him <hi>then.</hi> For tho' you now think it an easie matter to repent, that 'tis in your own
+<pb n="8" facs="tcp:102448:6"/>power, and you can forsake your sins, change your course, and be<g ref="char:EOLhyphen"/>come <hi>new creatures</hi> at your <hi>pleasure:</hi> yet let me tell you, this is only a <hi>Diabolical Delusion:</hi> you will (when you come to't) find it very difficult, and next to impossible; oft Read that of the Prophet: <hi>Can the</hi> Aethiopian <hi>change his Skin, or the Leopard his Spots? Then may you who are accustomed to do evil, learn to do well.</hi> Jer. 13.23. Here God sufficiently declares the difficulty of it, as easie as the <hi>Tempter</hi> makes it; And whom will you believe, God or the Devil, the Author of <hi>all Truth, or</hi> the Father of <hi>all Lyes?</hi> Again,</p>
+               <p n="3">3. The time of <hi>Youth</hi> is the most acceptable time; the <hi>Service</hi> you <hi>now</hi> do for God, is the most pleasing. What the Apostle saith of the day of Grace, in respect to God, that I may say of the day of Youth: <hi>Behold, now is the accepted time.</hi> The <hi>Evening</hi> or <hi>Noon-tide</hi> of thine Age <hi>may</hi> be, but to be sure the <hi>Morning</hi> will be accepted. Now to seek the Kingdom of God, and his Righteousness, before <hi>Satan</hi> and the <hi>World</hi> have captivated your affections, &amp; <hi>ravished</hi> away <hi>your hearts</hi> to Sin and Vanity: now to dedicate them to God by an <hi>early Piety</hi> and the power of <hi>godliness,</hi> will be as a reasonable, so an accepta<g ref="char:EOLhyphen"/>ble <hi>Sacrifice</hi> or <hi>Service;</hi> (<hi>Rom.</hi> 12.1, 2.) And this you may be <hi>sure</hi> of; the <hi>rather,</hi> because God calls for, and commands it in the Text, saying, <hi>Remember now thy Creator in the days of thy youth.</hi> O then Sirs, if God requires and expects <hi>Service</hi> from you, 'tis high disobedience in you to deny it; yea, and prodigious Folly in you to refuse or delay it. God commands, his Spirit strives, and his Ministers intreat; but <hi>young Ones</hi> will not hearken, they will not obey, they will not learn to fear an oath, to flee the impurities, excesses, and follies of a wanton Age, and youthful inclinations. Certainly, Friends, you must needs see the <hi>folly</hi> of this, if you would give <hi>your</hi> selves so <hi>much</hi> time, &amp; do <hi>your souls</hi> so much right, as to consider after this <hi>manner,</hi>
+               </p>
+               <p n="1">1. That all the time you spend in Sin, or out of Gods <hi>Service,</hi> is utterly lost, or spent to no purpose, nothing of the <hi>great Work</hi> done which you came into this World for: which is to glorifie your <hi>Maker,</hi> and make your Eternal Salvation <hi>sure.</hi> Now, what Folly is it to lose that time, which <hi>well improved</hi> and <hi>employed,</hi> may be as much worth to you as Heaven and endless Happiness!</p>
+               <p n="2">
+                  <pb n="9" facs="tcp:102448:6"/> 2. The longer you defer <hi>your Repentance</hi> and <hi>turning</hi> to <hi>God,</hi> the longer you do put off true Peace, Joy, &amp; Happiness from <hi>your selves.</hi> Peace, Joy, and Happiness are <hi>very desirable,</hi> and you think you have <hi>more</hi> of these in the ways of <hi>Sin,</hi> than ever you expect to find in <hi>Gods Service.</hi> This is also your Folly: for <hi>The service of God is perfect freedom, and his ways are pleasantness, and his paths peace.</hi> O what is the enjoyment of a <hi>vile</hi> and <hi>beastly lust,</hi> to the fruition of the chief<g ref="char:EOLhyphen"/>est Good, GOD, blessed for ever! What is carnal Peace and Joy with the <hi>World,</hi> to the Joy and Peace of the <hi>Holy Ghost,</hi> which Joy is <hi>unspeakable</hi> and <hi>glorious,</hi> and the Peace such as passeth all <hi>Ʋnder<g ref="char:EOLhyphen"/>standing?</hi> or, What are the <hi>pleasures</hi> of Sin for a <hi>moment,</hi> to the <hi>pleasures</hi> at God's Right Hand for <hi>evermore?</hi> What the Smiles of the <hi>World,</hi> to the Light of Gods <hi>Countenance,</hi> the Sense of his love, better than life it self? All which <hi>Spiritual Joy, Peace, Happiness,</hi> and <hi>Pleasure,</hi> you put off from your souls, so long as you forget <hi>your Creator,</hi> and decline his <hi>Service:</hi> and (like the <hi>prodigal Son</hi>) are eating Husks, when you might be feeding on the fatted Calf; and are gathering of <hi>Onions,</hi> while you might be gathering <hi>Hea<g ref="char:EOLhyphen"/>venly Manna;</hi> And, Is not this <hi>Folly?</hi>
+               </p>
+               <p n="3">3. If ever you do intend to <hi>serve</hi> God, or become <hi>Religious,</hi> 'tis <hi>great Folly</hi> not to begin betimes, because there is no <hi>reason</hi> can be given for doing this <hi>hereafter,</hi> which is not a <hi>reason</hi> for doing it <hi>now.</hi> As for instance.</p>
+               <list>
+                  <item>1. Will this be the way to please God <hi>hereafter?</hi> So 'tis the way to please Him <hi>now.</hi>
+                  </item>
+                  <item>2. Must you <hi>perish</hi> if you do it not <hi>hereafter?</hi> So you must <hi>now,</hi> if you dye in your <hi>Sins,</hi> without Repentance. And what Assurance have you of <hi>your life</hi> for a day longer?</item>
+                  <item>3. Will the <hi>assurance</hi> of <hi>Heaven,</hi> and the <hi>hoped-for glory,</hi> be desira<g ref="char:EOLhyphen"/>ble and comfortable to thy Soul <hi>hereafter?</hi> So it will <hi>now;</hi> i<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will put more Joy into thine <hi>heart,</hi> than when thy <hi>Corn, Wine, Oyl,</hi> or <hi>Riches</hi> encrease. So that, whatever may be an Ar<g ref="char:EOLhyphen"/>gument or Motive to <hi>Repentance</hi> and <hi>Holiness hereafter,</hi> is, an<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ought to be an Argument and Motive to it <hi>now.</hi> Lastly,</item>
+               </list>
+               <p n="4">
+                  <pb n="10" facs="tcp:102448:7"/> 4. Consider the Motive in the Text; <hi>The Evil days will come, and the years dray nigh wherein you shall say, I find no pleasure.</hi> Come they will, Sickness, Death, and Judgment, that is certain, these are unavoidable: And whether in thy Youth, Manhood, or old Age, is altogether uncertain. And you do but gratifie <hi>your Enemy,</hi> by putting these evil Days <hi>far</hi> from you; You harden your hearts more, and <hi>render</hi> this <hi>Work,</hi> if ever it be done, (as done it must be, or you can never be saved) much more hard and difficult. Satan, no doubt, will <hi>tell</hi> you, You have <hi>time enough,</hi> for you are <hi>young,</hi> and shall not dye yet; all which he would do, if he knew you should dye to <hi>morrow,</hi> or this <hi>night</hi> before the next <hi>morning;</hi> for he is the Father of Lyes, and his Work is to go about, <hi>Like a roaring Lyon, seeking whom he may devour;</hi> as St. <hi>Peter</hi> tells you, and bids you <hi>Re<g ref="char:EOLhyphen"/>sist him stedfast in the Faith:</hi> (1 <hi>Pet.</hi> 5.8, 9) That is, by believing the written <hi>Word of God,</hi> which adviseth you, <hi>That whatever your hand finds to do, to do it with all your might, for there is no Wisdom, nor Knowledge, nor Working in the Grave,</hi> whither we are all a-going; (<hi>Eccles.</hi> 9.10.) <hi>For Man knoweth not his time, as the Fishes taken in an evil Net, and as Birds that are caught in the snare: so are the Sons of Men snared in an evil time, when it falleth suddenly upon them.</hi> (<hi>Ec.</hi> 9.12.)</p>
+               <p>Therefore let me intreat you, (and, O that I might prevail with some of the Youth, who hear me this Evening) to take the Wise<g ref="char:EOLhyphen"/>man's counsel, to be wise for your Souls betimes, to <hi>Remember now your Creator, before the Evil daies come;</hi> wherein the Silver Cord <hi>shall</hi> be loosed, the golden Bowl broken, the Keepers of the House tremble, the strong men bow themselves, the Almond-Tree flourish, and those that look out at the Windows be darkned. O, before these evil daies come, wherein you shall find no <hi>pleasure, Remember thy Creator:</hi> By doing those things, by walking in those ways which <hi>shall</hi> prevent much sin and sorrow to your selves, promote the <hi>glory</hi> of God, and peace of your own souls <hi>here,</hi> and secure to them a Blessed and Happy Eternity <hi>hereafter.</hi>
+               </p>
+               <closer>To which Eternal Felicity God of His mercy in His due time bring us All, through the merits of Jesus Christ: To whom, with the Father, and Holy Spirit, be praise, honour, and glory, World without end. <hi>Amen.</hi>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:102448:7"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
